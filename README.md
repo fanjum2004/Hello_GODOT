@@ -1,1 +1,1 @@
-A 2D Godot scene of a character standing in a forest clearing, set against a sky-and-grass background. The trees and rocks filling the clearing are each just one reusable scene, instanced several times at different spots.
+
